@@ -1,10 +1,9 @@
 {
-    "id": "aa3bba43-6431-4641-a2ca-0f5d46bd62bd",
-    "authors": [
-        "MSmithDev"
-    ],
-    "origin": "https://github.com/MSmithDev/AMPTemplates.git",
-    "url": "https://github.com/MSmithDev/AMPTemplates",
-    "imagefile": "",
-    "prefix": ""
+	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
+	"authors": ["CubeCoders Limited", "AMP Community"],
+	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
+	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"imagefile": "",
+	"prefix": "",
+	"repotype": "AppTemplates"
 }
